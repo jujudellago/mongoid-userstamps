@@ -2,7 +2,7 @@
 
 module Mongoid
   module Userstamps
-    VERSION = '3.1.2'
+    VERSION = '3.1.4'
   end
 end
 
